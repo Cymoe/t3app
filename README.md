@@ -1,5 +1,22 @@
 # Create T3 App
 
+## TODO
+
+- [x] Make it deploy on Vercel
+- [x] Scaffold basic UI with mock data
+- [ ] Actually setup a database 
+- [ ] Attach database to UI
+- [ ] Add Authentication w/ Clerk
+- [ ] Add Image Upload
+- [ ] error management with Sentry
+- [ ] Routing Image
+- [ ] Delete Button with Server actions
+- [ ] analytics with posthog
+- [ ] rate limiting with upstash
+
+
+
+
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
 ## What's next? How do I make an app with this?
